@@ -1,0 +1,21 @@
+.cont{
+    display: flex;
+    flex-direction: column ;
+    font-family: Montserrat;
+    align-items: center;
+    margin: 15px;
+    font-weight: bold;
+    gap: 8px;
+    width: 100%;
+    font-size: 18px;
+    /* padding-bottom: ; */
+    & input{
+       padding: 9px 12px;
+       border-radius: 12px;
+       background: #e6e8e9;
+       border: 1px solid #e6e8e9;
+       outline: none;
+       width: 100%;
+    }
+}
+

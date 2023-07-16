@@ -1,0 +1,29 @@
+.cell {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 15px;
+    font-weight: bold;
+    font-size: 18px;
+    align-items: center;
+    justify-content: space-between;
+    border-right-width: 4px;
+    border-right-style: solid;
+    width: 100%;
+    border: 1px solid #e6e8e9;
+    border-radius: 5px;
+  }
+  
+  .cell-expense {
+    border-right-color: rgba(255, 0, 0, 1);
+    border-right-width: 3px;
+  }
+  
+  .cell-income {
+    border-right-color: green;
+    border-right-width: 3px;
+  }
+  
+  .cell span {
+    justify-content: space-around;
+  }
+  

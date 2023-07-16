@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    flex-direction: column ;
+    font-family: Montserrat;
+    align-items: center;
+    margin: 15px;
+    width: 350px;
+    
+      
+      
+}

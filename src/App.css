@@ -1,0 +1,24 @@
+body {
+  background-color: #eaeaea;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  font-family: Montserrat, sans-serif;
+  align-items: center;
+  margin: auto;
+  margin-top: 100px;
+  background-color: #fafafa;
+  width: 500px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #333333;
+  font-size: 32px;
+  margin-bottom: 20px;
+}
